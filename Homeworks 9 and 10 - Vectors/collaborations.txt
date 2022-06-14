@@ -1,0 +1,2 @@
+Part 1:Robbie and I worked with Andrew, our prefect, because of indexing and memory errors we were running into during the writing of the insert() and cleanup() functions.
+Part 2: We wrapped up work on this assignment by ourselves.

@@ -1,0 +1,3 @@
+https://www.scheme.com/tspl4/objects.html#./objects:s17 ;; used for "integer?"
+
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/ ;; used to remember which traversal was which

@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/13730188/reading-in-double-values-with-scanf-in-c#:~:text=6%20Answers&text=Use%20the%20%25lf%20format%20specifier,reference%20for%20available%20format%20specifiers. // To know how to scan for doubles

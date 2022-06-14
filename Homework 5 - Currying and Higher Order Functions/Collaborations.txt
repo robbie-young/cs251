@@ -1,0 +1,3 @@
+We worked only together on this, along with asking Anna for some help on CampusWire. We spent 10 plus hours on this HW assignment after passing all the tests, trying to figure out how to incorporate my-filter into the union and intersection functions. Unsuccessfully.
+
+UPDATE: Went back and re-started this with a greater understanding of scheme. Talked to my friend who's a senior CS major for some advice on correcting not using my-filter for the set functions
