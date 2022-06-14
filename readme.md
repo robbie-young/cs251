@@ -1,1 +1,0 @@
-This is a dump of the final interpreter project in C for the Scheme programming language, written in Spring term of 2020 in CS251 at Carleton College.
